@@ -1,0 +1,5 @@
+OUTPUT OF THE PROGRAM:-
+Following are the edges in constructed MST:
+     2 -- 3 == 4
+     0 -- 3 == 5
+     0 -- 1 == 10
